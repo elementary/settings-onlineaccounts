@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: beat-box\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2024-07-05 07:16+0000\n"
-"Last-Translator: Italo Felipe Capasso Ballesteros <edwood.grant@gmail.com>\n"
-"Language-Team: Spanish <https://l10n.elementary.io/projects/switchboard/"
-"switchboard-plug-onlineaccounts/es/>\n"
+"PO-Revision-Date: 2025-05-18 04:55+0000\n"
+"Last-Translator: Italo Felipe Capasso Ballesteros <italo@gp-mail.com>\n"
+"Language-Team: Spanish <https://l10n.elementaryos.org/projects/settings/"
+"onlineaccounts/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.11.4\n"
 "X-Launchpad-Export-Date: 2017-01-21 06:47+0000\n"
 
 #: src/Dialogs/CaldavDialog.vala:47
@@ -227,26 +227,20 @@ msgid "Close"
 msgstr "Cerrar"
 
 #: src/Widgets/FinalizePage.vala:94
-#, fuzzy
-#| msgid "Setting up the e-mail account…"
 msgid "Setting up the account…"
-msgstr "Configurando la cuenta de correo electrónico…"
+msgstr "Configurando la cuenta…"
 
 #: src/Widgets/FinalizePage.vala:122
 msgid "Ready to go"
-msgstr ""
+msgstr "Listo para continuar"
 
 #: src/Widgets/FinalizePage.vala:123
-#, fuzzy
-#| msgid "CalDAV account saved."
 msgid "Account saved"
-msgstr "Se guardó la cuanta de CalDAV."
+msgstr "Cuenta guardada"
 
 #: src/Widgets/FinalizePage.vala:137
-#, fuzzy
-#| msgid "Could not save the e-mail account"
 msgid "Could not save the account"
-msgstr "No se pudo guardar la cuenta de correo electrónico"
+msgstr "No se pudo guardar la cuenta"
 
 #~ msgid "Saving the configuration…"
 #~ msgstr "Guardando la configuración …"
