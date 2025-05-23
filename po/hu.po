@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: pantheon-online-accounts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2024-07-23 15:16+0000\n"
+"PO-Revision-Date: 2025-05-24 13:55+0000\n"
 "Last-Translator: TomiOhl <ohlslager.tom@gmail.com>\n"
-"Language-Team: Hungarian <https://l10n.elementary.io/projects/switchboard/"
-"switchboard-plug-onlineaccounts/hu/>\n"
+"Language-Team: Hungarian <https://l10n.elementaryos.org/projects/settings/"
+"onlineaccounts/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.11.4\n"
 "X-Launchpad-Export-Date: 2017-01-06 06:13+0000\n"
 
 #: src/Dialogs/CaldavDialog.vala:47
@@ -224,26 +224,20 @@ msgid "Close"
 msgstr "Bezárás"
 
 #: src/Widgets/FinalizePage.vala:94
-#, fuzzy
-#| msgid "Setting up the e-mail account…"
 msgid "Setting up the account…"
-msgstr "E-mail-fiók beállítása…"
+msgstr "Fiók beállítása…"
 
 #: src/Widgets/FinalizePage.vala:122
 msgid "Ready to go"
-msgstr ""
+msgstr "Készen állunk"
 
 #: src/Widgets/FinalizePage.vala:123
-#, fuzzy
-#| msgid "CalDAV account saved."
 msgid "Account saved"
-msgstr "CalDAV-fiók mentve."
+msgstr "Fiók mentve"
 
 #: src/Widgets/FinalizePage.vala:137
-#, fuzzy
-#| msgid "Could not save the e-mail account"
 msgid "Could not save the account"
-msgstr "E-mail-fiók mentése sikertelen"
+msgstr "A fiók mentése sikertelen"
 
 #~ msgid "Saving the configuration…"
 #~ msgstr "Beállítás mentése…"
