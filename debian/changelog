@@ -1,3 +1,9 @@
+io.elementary.settings.onlineaccounts (8.0.2) noble; urgency=medium
+
+  * Release 8.0.2 (#308)
+
+ -- elementary, Inc. <builds@elementary.io>  Tue, 27 May 2025 20:35:01 +0000
+
 io.elementary.settings.onlineaccounts (8.0.1) noble; urgency=medium
 
   * New upstream release
