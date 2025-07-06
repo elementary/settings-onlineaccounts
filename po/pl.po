@@ -8,17 +8,17 @@ msgstr ""
 "Project-Id-Version: beat-box 0.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2024-07-09 15:16+0000\n"
-"Last-Translator: Marcin Serwin <marcin.serwin0@protonmail.com>\n"
-"Language-Team: Polish <https://l10n.elementary.io/projects/switchboard/"
-"switchboard-plug-onlineaccounts/pl/>\n"
+"PO-Revision-Date: 2025-07-07 19:55+0000\n"
+"Last-Translator: Marcin Serwin <marcin@serwin.dev>\n"
+"Language-Team: Polish <https://l10n.elementaryos.org/projects/settings/"
+"onlineaccounts/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.11.4\n"
 "X-Launchpad-Export-Date: 2017-01-06 06:13+0000\n"
 
 #: src/Dialogs/CaldavDialog.vala:47
@@ -226,26 +226,20 @@ msgid "Close"
 msgstr "Zamknij"
 
 #: src/Widgets/FinalizePage.vala:94
-#, fuzzy
-#| msgid "Setting up the e-mail account…"
 msgid "Setting up the account…"
-msgstr "Konfigurowanie konta e-mail…"
+msgstr "Konfigurowanie konta…"
 
 #: src/Widgets/FinalizePage.vala:122
 msgid "Ready to go"
-msgstr ""
+msgstr "Gotowe"
 
 #: src/Widgets/FinalizePage.vala:123
-#, fuzzy
-#| msgid "CalDAV account saved."
 msgid "Account saved"
-msgstr "Zapisano konto CalDAV."
+msgstr "Zapisano konto"
 
 #: src/Widgets/FinalizePage.vala:137
-#, fuzzy
-#| msgid "Could not save the e-mail account"
 msgid "Could not save the account"
-msgstr "Nie udało się zapisać konta e-mail"
+msgstr "Nie udało się zapisać konta"
 
 #~ msgid "Saving the configuration…"
 #~ msgstr "Zapisywanie konfiguracji…"
