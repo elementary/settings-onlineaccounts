@@ -8,24 +8,22 @@ msgstr ""
 "Project-Id-Version: beat-box\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2024-08-07 00:16+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
-"Language-Team: Swedish <https://l10n.elementary.io/projects/switchboard/"
-"switchboard-plug-onlineaccounts/sv/>\n"
+"PO-Revision-Date: 2025-10-22 05:26+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
+"Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
+"onlineaccounts/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 5.11.4\n"
 "X-Launchpad-Export-Date: 2017-01-06 06:13+0000\n"
 "X-Poedit-Language: Swedish\n"
 
 #: src/Dialogs/CaldavDialog.vala:47
-#, fuzzy
-#| msgid "Server"
 msgid "Server URL"
-msgstr "Server"
+msgstr "Server-URL"
 
 #: src/Dialogs/CaldavDialog.vala:51
 msgid "Invalid URL"
@@ -33,7 +31,7 @@ msgstr "Felaktig URL"
 
 #: src/Dialogs/CaldavDialog.vala:57
 msgid "User Name"
-msgstr ""
+msgstr "Användarnamn"
 
 #: src/Dialogs/CaldavDialog.vala:67 src/Dialogs/Imap/ImapLoginPage.vala:73
 msgid "Password"
@@ -50,11 +48,11 @@ msgstr "Logga in"
 
 #: src/Dialogs/CaldavDialog.vala:106 src/Dialogs/Imap/ImapLoginPage.vala:82
 msgid "Account Display Name"
-msgstr ""
+msgstr "Kontots visningsnamn"
 
 #: src/Dialogs/CaldavDialog.vala:108 src/Dialogs/Imap/ImapLoginPage.vala:84
 msgid "Pick a name like “Work” or “Personal” for the account."
-msgstr ""
+msgstr "Välj ett namn som \"Arbete\" eller \"Personligt\" för kontot."
 
 #: src/Dialogs/CaldavDialog.vala:131 src/Dialogs/Imap/ImapDialog.vala:217
 #: src/Widgets/FinalizePage.vala:74
@@ -63,7 +61,7 @@ msgstr "Tillbaka"
 
 #: src/Dialogs/CaldavDialog.vala:133
 msgid "Save"
-msgstr ""
+msgstr "Spara"
 
 #: src/Dialogs/CaldavDialog.vala:151 src/Dialogs/CaldavDialog.vala:252
 #: src/Plug.vala:79
@@ -72,33 +70,32 @@ msgstr "Kalendrar"
 
 #: src/Dialogs/CaldavDialog.vala:254 src/Dialogs/CaldavDialog.vala:262
 msgid "Task Lists"
-msgstr ""
+msgstr "Uppgiftslistor"
 
 #: src/Dialogs/CaldavDialog.vala:296
 msgid "Finding available calendars and tasks…"
-msgstr ""
+msgstr "Hitta tillgängliga kalendrar och uppgifter…"
 
 #: src/Dialogs/CaldavDialog.vala:355
 msgid "Could not fetch calendars"
-msgstr ""
+msgstr "Det gick inte att hämta kalendrar"
 
 #: src/Dialogs/CaldavDialog.vala:452
 msgid "The data provided does not seem to reflect a valid CalDAV account."
 msgstr ""
+"De data som tillhandahålls verkar inte återspegla ett giltigt CalDAV-konto."
 
 #: src/Dialogs/Imap/ImapDialog.vala:53 src/Dialogs/Imap/ImapDialog.vala:133
 msgid "Username:"
-msgstr ""
+msgstr "Användarnamn:"
 
 #: src/Dialogs/Imap/ImapDialog.vala:58 src/Dialogs/Imap/ImapDialog.vala:144
 msgid "Password:"
 msgstr "Lösenord:"
 
 #: src/Dialogs/Imap/ImapDialog.vala:67 src/Dialogs/Imap/ImapDialog.vala:167
-#, fuzzy
-#| msgid "Server"
 msgid "Server URL:"
-msgstr "Server"
+msgstr "URL till server:"
 
 #: src/Dialogs/Imap/ImapDialog.vala:80 src/Dialogs/Imap/ImapDialog.vala:176
 msgid "Port:"
@@ -106,7 +103,7 @@ msgstr "Port:"
 
 #: src/Dialogs/Imap/ImapDialog.vala:85
 msgid "Refresh Interval in Minutes:"
-msgstr ""
+msgstr "Uppdateringsintervall i minuter:"
 
 #. The IDs need to correspond to Camel.NetworkSecurityMethod enum:
 #: src/Dialogs/Imap/ImapDialog.vala:94 src/Dialogs/Imap/ImapDialog.vala:185
@@ -126,29 +123,27 @@ msgid "No authentication required"
 msgstr "Ingen autentisering krävs"
 
 #: src/Dialogs/Imap/ImapDialog.vala:239
-#, fuzzy
-#| msgid "Use IMAP Credentials"
 msgid "Credentials"
-msgstr "Använd IMAP-inloggningsuppgifter"
+msgstr "Referenser"
 
 #: src/Dialogs/Imap/ImapDialog.vala:373
 msgid "The data provided does not seem to reflect a valid mail account."
 msgstr ""
+"De uppgifter som lämnats verkar inte återspegla ett giltigt e-postkonto."
 
 #: src/Dialogs/Imap/ImapDialog.vala:614
-#, fuzzy
-#| msgid "Please enter your credentials…"
 msgid "Could not log in. Please verify your credentials."
-msgstr "Skriv in dina inloggningsuppgifter…"
+msgstr ""
+"Det gick inte att logga in. Vänligen verifiera dina inloggningsuppgifter."
 
 #: src/Dialogs/Imap/ImapDialog.vala:628
 #, c-format
 msgid "IMAP verification failed: %s"
-msgstr ""
+msgstr "IMAP-verifiering misslyckades: %s"
 
 #: src/Dialogs/Imap/ImapLoginPage.vala:53
 msgid "Real Name"
-msgstr ""
+msgstr "Verkligt namn"
 
 #: src/Dialogs/Imap/ImapLoginPage.vala:63
 msgid "Email"
@@ -168,68 +163,60 @@ msgstr "Anslut dina online-konton"
 
 #: src/MainView.vala:37
 msgid "Connect online accounts by clicking the icon in the toolbar below."
-msgstr ""
+msgstr "Anslut onlinekonton genom att klicka på ikonen i verktygsfältet nedan."
 
 #: src/MainView.vala:53 src/Plug.vala:78
 msgid "CalDAV"
-msgstr ""
+msgstr "CalDAV"
 
 #: src/MainView.vala:54
-#, fuzzy
-#| msgid "Calendars"
 msgid "Calendars and Tasks"
-msgstr "Kalendrar"
+msgstr "Kalendrar och uppgifter"
 
 #: src/MainView.vala:59 src/Plug.vala:80
 msgid "IMAP"
-msgstr ""
+msgstr "IMAP"
 
 #: src/MainView.vala:60 src/Plug.vala:81
 msgid "Mail"
-msgstr ""
+msgstr "Post"
 
 #: src/MainView.vala:76
-#, fuzzy
-#| msgid "Add a new account…"
 msgid "Add Account…"
-msgstr "Lägg till ett nytt konto…"
+msgstr "Lägg till konto…"
 
 #: src/MainView.vala:145
 msgid "Remove this account"
-msgstr ""
+msgstr "Ta bort detta konto"
 
 #: src/MainView.vala:158
-#, fuzzy
-#| msgid "Other Account"
 msgid "Edit this account"
-msgstr "Annat konto"
+msgstr "Redigera detta konto"
 
 #: src/MainView.vala:183
 #, c-format
 msgid "Remove “%s” from this device"
-msgstr ""
+msgstr "Ta bort \"%s\" från den här enheten"
 
 #: src/MainView.vala:184
 msgid ""
 "This account will be removed and no longer appear in any apps on this device."
 msgstr ""
+"Det här kontot tas bort och visas inte längre i några appar på den här "
+"enheten."
 
 #: src/MainView.vala:192
-#, fuzzy
-#| msgid "New Account"
 msgid "Remove Account"
-msgstr "Nytt konto"
+msgstr "Ta bort konto"
 
 #: src/MainView.vala:218 src/MainView.vala:246
-#, fuzzy
-#| msgid "Mail Account"
 msgid "Edit account failed"
-msgstr "E-postkonto"
+msgstr "Redigera konto misslyckades"
 
 #: src/MainView.vala:219 src/MainView.vala:247
 #, c-format
 msgid "There was an unexpected error while reading the configuration of '%s'."
-msgstr ""
+msgstr "Det uppstod ett oväntat fel när konfigurationen för '%s' lästes."
 
 #: src/Plug.vala:31
 msgid "Manage online accounts and connected applications"
@@ -241,23 +228,19 @@ msgstr "Stäng"
 
 #: src/Widgets/FinalizePage.vala:94
 msgid "Setting up the account…"
-msgstr ""
+msgstr "Konfigurerar kontot…"
 
 #: src/Widgets/FinalizePage.vala:122
 msgid "Ready to go"
-msgstr ""
+msgstr "Redo att starta"
 
 #: src/Widgets/FinalizePage.vala:123
-#, fuzzy
-#| msgid "Mail Account"
 msgid "Account saved"
-msgstr "E-postkonto"
+msgstr "Annonskontot är sparat"
 
 #: src/Widgets/FinalizePage.vala:137
-#, fuzzy
-#| msgid "Other Account"
 msgid "Could not save the account"
-msgstr "Annat konto"
+msgstr "Det gick inte att spara kontot"
 
 #, fuzzy
 #~| msgid "Mail Account"
