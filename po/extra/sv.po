@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: extra\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2025-10-22 05:26+0000\n"
+"PO-Revision-Date: 2025-10-22 09:59+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "online-accounts-extra/sv/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 
 #: data/onlineaccounts.metainfo.xml.in:10
 msgid "Online Accounts Settings"
-msgstr ""
+msgstr "Inställningar för nätkonton"
 
 #: data/onlineaccounts.metainfo.xml.in:11
 msgid "Manage online accounts and connected applications"
@@ -51,7 +51,7 @@ msgstr "Uppdaterade översättningar"
 
 #: data/onlineaccounts.metainfo.xml.in:48
 msgid "Fix icon in the Feedback app"
-msgstr ""
+msgstr "Fixa ikonen i appen Återkoppling"
 
 #: data/onlineaccounts.metainfo.xml.in:58
 msgid "Improve screen reader accessibility"
@@ -59,11 +59,11 @@ msgstr "Förbättra tillgängligheten för skärmläsare"
 
 #: data/onlineaccounts.metainfo.xml.in:68
 msgid "Fix freeze when an IMAP server sends no response"
-msgstr ""
+msgstr "Fixa problem när en IMAP-server inte skickar något svar"
 
 #: data/onlineaccounts.metainfo.xml.in:81
 msgid "Update Mail and Tasks icons"
-msgstr ""
+msgstr "Uppdatera ikonerna för E-post och Uppgifter"
 
 #: data/onlineaccounts.metainfo.xml.in:101
 msgid "New features:"
@@ -71,4 +71,4 @@ msgstr "Nya funktioner:"
 
 #: data/onlineaccounts.metainfo.xml.in:103
 msgid "Added offline support for CalDAV accounts"
-msgstr ""
+msgstr "Offline-stöd för CalDAV-konton har lagts till"
