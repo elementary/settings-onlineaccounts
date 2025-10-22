@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: beat-box\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2025-10-22 05:26+0000\n"
+"PO-Revision-Date: 2025-10-23 13:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "onlineaccounts/sv/>\n"
@@ -155,15 +155,15 @@ msgstr "Nästa"
 
 #: src/MainView.vala:27 src/Plug.vala:30
 msgid "Online Accounts"
-msgstr "Online-konton"
+msgstr "Nätkonton"
 
 #: src/MainView.vala:36
 msgid "Connect Your Online Accounts"
-msgstr "Anslut dina online-konton"
+msgstr "Anslut dina nätkonton"
 
 #: src/MainView.vala:37
 msgid "Connect online accounts by clicking the icon in the toolbar below."
-msgstr "Anslut onlinekonton genom att klicka på ikonen i verktygsfältet nedan."
+msgstr "Anslut nätkonton genom att klicka på ikonen i verktygsfältet nedan."
 
 #: src/MainView.vala:53 src/Plug.vala:78
 msgid "CalDAV"
@@ -220,7 +220,7 @@ msgstr "Det uppstod ett oväntat fel när konfigurationen för '%s' lästes."
 
 #: src/Plug.vala:31
 msgid "Manage online accounts and connected applications"
-msgstr "Hantera online-konton och anslutna program"
+msgstr "Hantera nätkonton och anslutna program"
 
 #: src/Widgets/FinalizePage.vala:76
 msgid "Close"
