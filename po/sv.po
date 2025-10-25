@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: beat-box\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2025-10-23 13:55+0000\n"
+"PO-Revision-Date: 2025-10-26 09:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "onlineaccounts/sv/>\n"
@@ -133,8 +133,7 @@ msgstr ""
 
 #: src/Dialogs/Imap/ImapDialog.vala:614
 msgid "Could not log in. Please verify your credentials."
-msgstr ""
-"Det gick inte att logga in. Vänligen verifiera dina inloggningsuppgifter."
+msgstr "Det gick inte att logga in. Verifiera dina inloggningsuppgifter."
 
 #: src/Dialogs/Imap/ImapDialog.vala:628
 #, c-format
