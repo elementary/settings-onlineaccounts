@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: beat-box\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2025-10-26 09:55+0000\n"
+"PO-Revision-Date: 2025-10-31 10:55+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>\n"
 "Language-Team: Swedish <https://l10n.elementaryos.org/projects/settings/"
 "onlineaccounts/sv/>\n"
@@ -74,7 +74,7 @@ msgstr "Uppgiftslistor"
 
 #: src/Dialogs/CaldavDialog.vala:296
 msgid "Finding available calendars and tasks…"
-msgstr "Hitta tillgängliga kalendrar och uppgifter…"
+msgstr "Letar tillgängliga kalendrar och uppgifter…"
 
 #: src/Dialogs/CaldavDialog.vala:355
 msgid "Could not fetch calendars"
@@ -95,7 +95,7 @@ msgstr "Lösenord:"
 
 #: src/Dialogs/Imap/ImapDialog.vala:67 src/Dialogs/Imap/ImapDialog.vala:167
 msgid "Server URL:"
-msgstr "URL till server:"
+msgstr "Server-URL:"
 
 #: src/Dialogs/Imap/ImapDialog.vala:80 src/Dialogs/Imap/ImapDialog.vala:176
 msgid "Port:"
@@ -124,7 +124,7 @@ msgstr "Ingen autentisering krävs"
 
 #: src/Dialogs/Imap/ImapDialog.vala:239
 msgid "Credentials"
-msgstr "Referenser"
+msgstr "Inloggningsuppgifter"
 
 #: src/Dialogs/Imap/ImapDialog.vala:373
 msgid "The data provided does not seem to reflect a valid mail account."
@@ -142,7 +142,7 @@ msgstr "IMAP-verifiering misslyckades: %s"
 
 #: src/Dialogs/Imap/ImapLoginPage.vala:53
 msgid "Real Name"
-msgstr "Verkligt namn"
+msgstr "Riktigt namn"
 
 #: src/Dialogs/Imap/ImapLoginPage.vala:63
 msgid "Email"
@@ -178,7 +178,7 @@ msgstr "IMAP"
 
 #: src/MainView.vala:60 src/Plug.vala:81
 msgid "Mail"
-msgstr "Post"
+msgstr "E-post"
 
 #: src/MainView.vala:76
 msgid "Add Account…"
@@ -210,12 +210,12 @@ msgstr "Ta bort konto"
 
 #: src/MainView.vala:218 src/MainView.vala:246
 msgid "Edit account failed"
-msgstr "Redigera konto misslyckades"
+msgstr "Redigering av konto misslyckades"
 
 #: src/MainView.vala:219 src/MainView.vala:247
 #, c-format
 msgid "There was an unexpected error while reading the configuration of '%s'."
-msgstr "Det uppstod ett oväntat fel när konfigurationen för '%s' lästes."
+msgstr "Det uppstod ett oväntat fel när konfigurationen för '%s' lästes in."
 
 #: src/Plug.vala:31
 msgid "Manage online accounts and connected applications"
@@ -235,7 +235,7 @@ msgstr "Redo att starta"
 
 #: src/Widgets/FinalizePage.vala:123
 msgid "Account saved"
-msgstr "Annonskontot är sparat"
+msgstr "Kontot sparades"
 
 #: src/Widgets/FinalizePage.vala:137
 msgid "Could not save the account"
