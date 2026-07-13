@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: pantheon-online-accounts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2025-05-14 06:47+0000\n"
+"PO-Revision-Date: 2026-07-14 04:00+0000\n"
 "Last-Translator: NorwayFun <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://l10n.elementaryos.org/projects/settings/"
 "onlineaccounts/ka/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 2026.5\n"
 "X-Launchpad-Export-Date: 2017-01-06 06:13+0000\n"
 
 #: src/Dialogs/CaldavDialog.vala:47
@@ -121,10 +121,8 @@ msgid "No authentication required"
 msgstr "ავთენტიკაცია საჭირო არაა"
 
 #: src/Dialogs/Imap/ImapDialog.vala:239
-#, fuzzy
-#| msgid "Use IMAP Credentials"
 msgid "Credentials"
-msgstr "IMAP-ის ავთენტიკაციის დეტალების გამოყენება"
+msgstr "ავტორიზაციის დეტალები"
 
 #: src/Dialogs/Imap/ImapDialog.vala:373
 msgid "The data provided does not seem to reflect a valid mail account."
