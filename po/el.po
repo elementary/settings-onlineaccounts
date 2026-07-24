@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: pantheon-online-accounts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2026-06-30 12:56+0000\n"
+"PO-Revision-Date: 2026-07-25 23:01+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://l10n.elementaryos.org/projects/settings/"
 "onlineaccounts/el/>\n"
@@ -89,7 +89,7 @@ msgstr "Όνομα χρήστη:"
 
 #: src/Dialogs/Imap/ImapDialog.vala:58 src/Dialogs/Imap/ImapDialog.vala:144
 msgid "Password:"
-msgstr "Συνθηματικό:"
+msgstr "Κωδικός πρόσβασης:"
 
 #: src/Dialogs/Imap/ImapDialog.vala:67 src/Dialogs/Imap/ImapDialog.vala:167
 msgid "Server URL:"
