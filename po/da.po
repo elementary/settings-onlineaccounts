@@ -8,23 +8,21 @@ msgstr ""
 "Project-Id-Version: pantheon-online-accounts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-05-10 16:57+0000\n"
-"PO-Revision-Date: 2024-08-07 00:16+0000\n"
-"Last-Translator: anonymous <noreply@weblate.org>\n"
-"Language-Team: Danish <https://l10n.elementary.io/projects/switchboard/"
-"switchboard-plug-onlineaccounts/da/>\n"
+"PO-Revision-Date: 2026-10-24 21:04+0000\n"
+"Last-Translator: CodeBeats <nicholai67@hotmail.com>\n"
+"Language-Team: Danish <https://l10n.elementaryos.org/projects/settings/"
+"onlineaccounts/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6.2\n"
+"X-Generator: Weblate 2026.5\n"
 "X-Launchpad-Export-Date: 2017-03-22 06:56+0000\n"
 
 #: src/Dialogs/CaldavDialog.vala:47
-#, fuzzy
-#| msgid "Server"
 msgid "Server URL"
-msgstr "Server"
+msgstr "Server URL"
 
 #: src/Dialogs/CaldavDialog.vala:51
 msgid "Invalid URL"
@@ -32,7 +30,7 @@ msgstr "Ugyldig URL"
 
 #: src/Dialogs/CaldavDialog.vala:57
 msgid "User Name"
-msgstr ""
+msgstr "Brugernavn"
 
 #: src/Dialogs/CaldavDialog.vala:67 src/Dialogs/Imap/ImapLoginPage.vala:73
 msgid "Password"
@@ -94,10 +92,8 @@ msgid "Password:"
 msgstr "Adgangskode:"
 
 #: src/Dialogs/Imap/ImapDialog.vala:67 src/Dialogs/Imap/ImapDialog.vala:167
-#, fuzzy
-#| msgid "Server"
 msgid "Server URL:"
-msgstr "Server"
+msgstr "Server URL:"
 
 #: src/Dialogs/Imap/ImapDialog.vala:80 src/Dialogs/Imap/ImapDialog.vala:176
 msgid "Port:"
@@ -125,10 +121,8 @@ msgid "No authentication required"
 msgstr "Ingen autentifikation påkrævet"
 
 #: src/Dialogs/Imap/ImapDialog.vala:239
-#, fuzzy
-#| msgid "Use IMAP Credentials"
 msgid "Credentials"
-msgstr "Brug IMAP-logininfo"
+msgstr "Legitimationsoplysninger"
 
 #: src/Dialogs/Imap/ImapDialog.vala:373
 msgid "The data provided does not seem to reflect a valid mail account."
@@ -174,10 +168,8 @@ msgid "CalDAV"
 msgstr ""
 
 #: src/MainView.vala:54
-#, fuzzy
-#| msgid "Calendars"
 msgid "Calendars and Tasks"
-msgstr "Kalendere"
+msgstr "Kalendere og Opgaver"
 
 #: src/MainView.vala:59 src/Plug.vala:80
 msgid "IMAP"
@@ -196,10 +188,8 @@ msgid "Remove this account"
 msgstr ""
 
 #: src/MainView.vala:158
-#, fuzzy
-#| msgid "Other Account"
 msgid "Edit this account"
-msgstr "Anden konto"
+msgstr "Rediger denne konto"
 
 #: src/MainView.vala:183
 #, c-format
@@ -212,16 +202,12 @@ msgid ""
 msgstr ""
 
 #: src/MainView.vala:192
-#, fuzzy
-#| msgid "New Account"
 msgid "Remove Account"
-msgstr "Ny Konto"
+msgstr "Fjern Konto"
 
 #: src/MainView.vala:218 src/MainView.vala:246
-#, fuzzy
-#| msgid "Mail Account"
 msgid "Edit account failed"
-msgstr "Mailkonto"
+msgstr "Redigering af konto mislykkedes"
 
 #: src/MainView.vala:219 src/MainView.vala:247
 #, c-format
@@ -245,16 +231,12 @@ msgid "Ready to go"
 msgstr ""
 
 #: src/Widgets/FinalizePage.vala:123
-#, fuzzy
-#| msgid "Mail Account"
 msgid "Account saved"
-msgstr "Mailkonto"
+msgstr "Konto gemt"
 
 #: src/Widgets/FinalizePage.vala:137
-#, fuzzy
-#| msgid "Other Account"
 msgid "Could not save the account"
-msgstr "Anden konto"
+msgstr "Kunne ikke gemme kontoen"
 
 #, fuzzy
 #~| msgid "Mail Account"
