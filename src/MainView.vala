@@ -154,7 +154,7 @@ public class OnlineAccounts.MainView : Switchboard.SettingsPage {
                 "webdav" == ((E.SourceCollection) e_source.get_extension (E.SOURCE_EXTENSION_COLLECTION)).backend_name
             )
         ) {
-            edit_button = new Gtk.Button.from_icon_name ("edit-symbolic") {
+            edit_button = new Gtk.Button.from_icon_name ("document-edit-symbolic") {
                 tooltip_text = _("Edit this account")
             };
             edit_button.add_css_class (Granite.STYLE_CLASS_FLAT);
